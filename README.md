@@ -22,25 +22,26 @@ git clone https://github.com/coldbrewdev/integer-sequences
 ```
 
 ## Usage Example
+```bash
 $ python3 main.py
 
 What sequences are you interested in?
 1. Prime Numbers
 2. Abundant Numbers
->2
+>>>2
 
 Which would you like to do?
 1. Check a specific number
 2. Get a list of the first n such numbers
-Enter your selection in integer form:
->2
+>>>2
 
 How many results would you like?
->5
+>>>5
 
 The first 5 abundant numbers are:
-
 [12, 18, 20, 24, 30]
+```
+
 
 ## Current Limitations
 All the lists are subject to normal computational constraints, but when lists *quickly* become too complex, we

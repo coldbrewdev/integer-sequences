@@ -111,8 +111,7 @@ def menu():
     while y not in [1, 2]:
         y = int(force_integer(input('Which would you like to do?\n'
                   '1. Check a specific number\n'
-                  '2. Get a list of the first n such numbers\n'
-                  'Enter your selection in integer form:\n')))
+                  '2. Get a list of the first n such numbers\n')))
     if y == 1:
         c = int(force_integer(input('Enter your integer:\n')))
         f = f_list[x-1]
