@@ -7,6 +7,9 @@ Integer-sequences is just for fun. The aim is to avoid using powerful modules to
 
 The math module is used where it offers simple, obvious, and powerful efficiency improvements, like using math.sqrt()
  as an upper bound when factoring numbers. 
+ 
+For more on integer sequences, visit the [On-Line Encyclopedia of Integer Sequences](https://oeis.org/) or [Wikipedia
+](https://en.wikipedia.org/wiki/Integer_sequence).
 
 ## Current Offerings
 As of February 8, 2021, integer-sequences covers the followings lists:

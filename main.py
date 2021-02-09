@@ -85,8 +85,8 @@ def is_mersenne(m):
 def mersenne_list(m):
     if m > 8:
         m = 8
-        print('Sorry, for the sake of processing power this program maxes at 8 Mersenne Primes. Feel free to open the '
-              'code and remove this limit. Calculating the first 8 Mersenne Primes...')
+        print('Sorry, for the sake of processing power this program maxes at 8 Mersenne Primes.\nFeel free to open the '
+              'code and remove this limit.\nCalculating the first 8 Mersenne Primes...')
     i = 0
     n = 1
     mersenne = []
