@@ -12,7 +12,7 @@ The math module is used where it offers simple, obvious, and powerful efficiency
 As of February 8, 2021, integer-sequences covers the followings lists:
 1. [Prime Numbers](https://en.wikipedia.org/wiki/Prime_number) ([OEIS A000040](https://oeis.org/A000040))
 2. [Abundant Numbers](https://en.wikipedia.org/wiki/Abundant_number) ([OEIS A005101](https://oeis.org/A005101))
-3. [Mersenne Primes](https://en.wikipedia.org/wiki/Mersenne_prime)([OEIS A000668](http://oeis.org/A000668))
+3. *[Mersenne Primes](https://en.wikipedia.org/wiki/Mersenne_prime)([OEIS A000668](http://oeis.org/A000668))
 
 *See Current Limitations (below)
 ## Installation
